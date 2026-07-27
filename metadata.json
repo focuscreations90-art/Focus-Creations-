@@ -1,0 +1,11 @@
+{
+  "name": "FOCUS CHAT",
+  "description": "A private messaging app by FOCUS EMPIRE featuring real-time state, direct & group messaging, voice notes, media sharing, emojis, black & gold theme, user profiles, and security controls.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
